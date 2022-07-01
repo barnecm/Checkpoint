@@ -1,0 +1,2 @@
+# Checkpoint
+Práctica Intro.
